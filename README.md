@@ -1,7 +1,3 @@
-![image-20210506104427925](https://tva1.sinaimg.cn/large/008i3skNgy1gq8sv4q7cqj303k03kweo.jpg)
-
-
-
 ### ¿Que es este repositorio?
 
 Este repositorio es una implementación de Træfik que te facilitará la vida para crear reverse proxy para los distintos servicios dockerizados.
@@ -109,9 +105,3 @@ El valor ``traefik.port`` define el puerto al que va a hacer el reverse proxy.
 ## Invitación a mi Canal.
 
 Estás invitado a mi canal de telegram, donde publico más soluciones como esta.
-
-![Telegram-icon](https://tva1.sinaimg.cn/large/008i3skNgy1guctnvd002j600w00w0r202.jpg)https://t.me/aitorroma
-
-----------------------------------------------------------
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J64AN17)
